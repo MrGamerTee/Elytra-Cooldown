@@ -1,0 +1,4 @@
+name: ElytraCooldown
+main: com.gamertee.elytra.ElytraCooldown
+version: 1.0
+api-version: 1.21

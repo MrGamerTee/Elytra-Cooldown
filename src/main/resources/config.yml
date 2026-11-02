@@ -1,0 +1,5 @@
+flight-time: 30     # seconds of actual gliding allowed
+cooldown-time: 60  # seconds
+messages:
+  remaining: "&eElytra &f{time} &eRemaining"
+  cooldown: "&eElytra &fon cooldown for &c{time}"
